@@ -92,7 +92,7 @@ form textarea{
     display: flex;
     gap: 10px;
 }
-input, select, textarea {
+.form-container input, select, textarea {
     width: 100%;
     padding: 10px;
     border: 1px solid #ccc;
